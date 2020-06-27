@@ -1,0 +1,5 @@
+1.下载“安卓系统解压.rar”，解压得到“SystemExtractor”
+2.下载FLYME固件“update.zip”，解压得到“update”
+3.将update文件夹内“system.new.dat”与“system.transfer.list”放入/SystemExtractor/place_for_system.new.dat_system.transfer.list_here文件夹内。
+4.然后双击“SystemExtractor”文件夹内的Extraktor_EN.cmd(请以管理员权限运行)，按1回车，等待它完成。
+5.固件提取的文件在extract_file_here/system.new_里
