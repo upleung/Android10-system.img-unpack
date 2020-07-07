@@ -4,7 +4,7 @@ EMUI10  MIUI12 Flyme8 firmware unpack. Android system.img unpack repack on Windo
 Android 8以上 ROM解包工具
 
 
-文件说明：
+# 文件说明：
 
 1.brotli-v1.0.4-win_x86_64：解压工具，用于将「system.new.dat.br」文件解压为「system.new.dat」
 
@@ -14,7 +14,7 @@ Android 8以上 ROM解包工具
 
 
 
-转载说明：
+# 转载说明：
 
 本工具为一套组合使用工具，其中3个文件均转自GitHub上的大佬，组合使用实测可在Win10系统上解包Android 8、Android 9、Android 10的ROM固件（包含EMUI10、MIUI12、Flyme8等主流固件），其中：
 
@@ -26,7 +26,7 @@ Android 8以上 ROM解包工具
 
 
 
-使用说明：
+# 使用说明：
 
 流程：brotli解压「system.new.dat.br」得到「system.new.dat」 → sdat2img转换「system.new.dat」得到「system.img」 → 最后SystemExtractor实现「system.img」解包！
 
@@ -34,7 +34,7 @@ Android 8以上 ROM解包工具
 
 
 
-写在最后：
+# 写在最后：
 
 录屏操作在剪辑中，完成后我会上传到B站；还有，为了方便更多人使用，那位大佬能帮忙写个命令行批处理或者写个GUI啊，整合上面3个步骤......(编辑中)
 
