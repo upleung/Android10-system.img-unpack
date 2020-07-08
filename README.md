@@ -26,16 +26,11 @@ Android 8以上 ROM解包工具
 
 
 
-# 使用说明：
+# 使用说明：  
+流程：brotli解压「system.new.dat.br」得到「system.new.dat」 → sdat2img转换「system.new.dat」得到「system.img」 → 最后SystemExtractor实现「system.img」解包！  
+简单来说就是按照1、2、3 三个步骤逐步进行，即可完成解包；（第3步那里注意要把system.img重命名为system.new.img才能进行解包）  
 
-流程：brotli解压「system.new.dat.br」得到「system.new.dat」 → sdat2img转换「system.new.dat」得到「system.img」 → 最后SystemExtractor实现「system.img」解包！
-
-简单来说就是按照1、2、3 三个步骤逐步进行，即可完成解包；（第3步那里注意要把system.img重命名为system.new.img才能进行解包）
-
-
-
-# 写在最后：
-
+# 写在最后：  
 录屏操作在剪辑中，完成后我会上传到B站；还有，为了方便更多人使用，那位大佬能帮忙写个命令行批处理或者写个GUI啊，整合上面3个步骤......(编辑中)
 
 
