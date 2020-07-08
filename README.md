@@ -17,7 +17,7 @@ Android 8以上 ROM解包工具
 **流程**：brotli解压「system.new.dat.br」得到「system.new.dat」 → sdat2img转换「system.new.dat」得到「system.img」 → 最后SystemExtractor实现「system.img」解包（骤步进行）    
 
 **详细说明**：  
-1.  
+1.  以[魅族17 Pro Flyme8.1](https://www.flyme.com/firmwarelist-187.html#3)固件解包为例，解压提取「system.new.dat.br」和「system.transfer.list」 两个文件；    
 2.  
 3.  
 4.  
