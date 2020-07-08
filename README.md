@@ -1,18 +1,11 @@
-# Android10-system.img-unpack
-EMUI10  MIUI12 Flyme8 firmware unpack. Android system.img unpack repack on Windows10.
+# Android10-system.img-unpack  
+EMUI10  MIUI12 Flyme8 firmware unpack. Android system.img unpack repack on Windows10.  
+Android 8以上 ROM解包工具  
 
-Android 8以上 ROM解包工具
-
-
-# 文件说明：
-
-1.brotli-v1.0.4-win_x86_64：解压工具，用于将「system.new.dat.br」文件解压为「system.new.dat」
-
-2.sdat2img：格式转换工具，用于将「system.new.dat」文件转换为ext4格式的「system.img」
-
-3.SystemExtractor：解包工具，用于将「system.img」解包！
-
-
+# 文件说明：  
+1.brotli-v1.0.4-win_x86_64：解压工具，用于将「system.new.dat.br」文件解压为「system.new.dat」  
+2.sdat2img：格式转换工具，用于将「system.new.dat」文件转换为ext4格式的「system.img」  
+3.SystemExtractor：解包工具，用于将「system.img」解包！   
 
 # 转载说明：
 
