@@ -14,7 +14,7 @@ Android 8以上 ROM解包工具
 3.SystemExtractor：来自Flyme论坛，使用方法请参考文件夹里的[TXT](https://github.com/upleung/Android10-system.img-unpack/blob/master/SystemExtractor/%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95.txt)  
 
 # 使用说明：  
-**流程**：brotli解压「system.new.dat.br」得到「system.new.dat」 → sdat2img转换「system.new.dat」得到「system.img」 → 最后SystemExtractor实现「system.img」解包（骤逐步进行）    
+**流程**：brotli解压「system.new.dat.br」得到「system.new.dat」 → sdat2img转换「system.new.dat」得到「system.img」 → 最后SystemExtractor实现「system.img」解包（骤步进行）    
 
 **详细说明**：  
 1.  
