@@ -37,5 +37,5 @@ Android 8以上 ROM解包工具
 # 写在最后：
 
 录屏操作在剪辑中，完成后我会上传到B站；还有，为了方便更多人使用，那位大佬能帮忙写个命令行批处理或者写个GUI啊，整合上面3个步骤......(编辑中)
-![test](https://github.com/upleung/Android10-system.img-unpack/blob/master/img/test.jpg)
+
 
