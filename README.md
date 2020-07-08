@@ -22,7 +22,7 @@ Android 8以上 ROM解包工具
 
 2.sdat2img：来自[xpirt / sdat2img](https://github.com/google/brotli)
 
-3.SystemExtractor：来自Flyme论坛，使用方法请参考文件夹里的TXT
+3.SystemExtractor：来自Flyme论坛，使用方法请参考文件夹里的[TXT](https://github.com/upleung/Android10-system.img-unpack/blob/master/sdat2img/%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95.txt)
 
 
 
