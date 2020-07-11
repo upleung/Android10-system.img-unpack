@@ -1,6 +1,6 @@
 # Android10-system.img-unpack  
 EMUI10  MIUI12 Flyme8 firmware unpack. Android system.img unpack repack on Windows10.  
-Android 8以上 ROM解包工具：https://github.com/upleung/Android10-system.img-unpack/releases/tag/system.img-unpack
+Android 8以上 ROM解包工具
 
 # 文件说明：  
 1.brotli-v1.0.4-win_x86_64：解压工具，用于将「system.new.dat.br」文件解压为「system.new.dat」  
@@ -23,6 +23,8 @@ Android 8以上 ROM解包工具：https://github.com/upleung/Android10-system.im
 4.  
 5.  
 
+**下载地址**：
+https://github.com/upleung/Android10-system.img-unpack/releases/tag/system.img-unpack
 
 # 写在最后：  
 录屏操作在剪辑中，完成后我会上传到B站；还有，为了方便更多人使用，那位大佬能帮忙写个命令行批处理或者写个GUI啊，整合上面3个步骤......(编辑中)  
