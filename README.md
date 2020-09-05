@@ -28,5 +28,5 @@ Android 8以上 ROM解包工具
  蓝奏云：https://zelink.lanzous.com/iQbtKgd7ulc
 
 # 写在最后：    
-1.EMUI10需要用到[Huawei Update Extractor](https://club.huawei.com/thread-15265009-1-1.html) UPDATA.APP中的img文件提取出来才能进行解包操作；  
-2.在Windowns平台解一个ROM包需要较长时间（10~15分钟不等），为了更直观、更安全与稳定，所以在这里我采用了分步执行解包。当然也有一步执行到底的工具，例如由意大利XDA开发者整合到一起的CRB包管理工具等。解包录屏在剪辑中，完成后会上传到B站； 
+1.  EMUI10需要先用[Huawei Update Extractor](https://club.huawei.com/thread-15265009-1-1.html) 将UPDATA.APP中的img文件提取出来才能进行解包操作；  
+2.  在Windowns平台解一个ROM包需要较长时间（10~15分钟不等），为了更直观、更安全与稳定，所以在这里我采用了分步执行解包。当然也有一步执行到底的工具，例如由意大利XDA开发者整合到一起的CRB包管理工具等。解包录屏在剪辑中，完成后会上传到B站； 
