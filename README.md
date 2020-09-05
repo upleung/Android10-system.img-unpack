@@ -14,7 +14,7 @@ Android 8以上 ROM解包工具
 3.SystemExtractor：来自XDA论坛;
 
 # 使用说明：  
-**流程**：brotli解压「system.new.dat.br」得到「system.new.dat」 → sdat2img转换「system.new.dat」得到「system.img」 → 最后SystemExtractor实现「system.img」解包（骤步进行）    
+**解包流程**：brotli解压「system.new.dat.br」得到「system.new.dat」 → sdat2img转换「system.new.dat」得到「system.img」 → 最后SystemExtractor实现「system.img」解包（骤步进行）    
 
 **详细说明**：  
 1.  以小米10 Pro [MIUI 12](https://www.miui.com/download-365.html)固件解包为例，首先从固件中提取「system.new.dat.br」和「system.transfer.list」 两个文件，放进brotli文件夹；    
