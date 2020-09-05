@@ -18,15 +18,15 @@ Android 8以上 ROM解包工具
 
 **详细说明**：  
   
-1.以小米10 Pro [MIUI 12](https://www.miui.com/download-365.html)固件解包为例，首先从固件中提取「system.new.dat.br」和「system.transfer.list」 两个文件，放进brotli文件夹；      
+1. 以小米10 Pro [MIUI 12](https://www.miui.com/download-365.html)固件解包为例，首先从固件中提取「system.new.dat.br」和「system.transfer.list」 两个文件，放进brotli文件夹；      
   
-2.双击br解包.cmd执行命令，等待解包完成得到「system.new.dat」文件，然后将「system.new.dat」和「system.transfer.list」 剪切到sdat2img文件夹；  
+2. 双击br解包.cmd执行命令，等待解包完成得到「system.new.dat」文件，然后将「system.new.dat」和「system.transfer.list」 剪切到sdat2img文件夹；  
   
-3.双击dat解包.bat执行命令，等待解包完成得到「system.new.img」文件，然后将「system.new.img」剪切到SystemExtractor里的extract_file_here文件夹；  
+3. 双击dat解包.bat执行命令，等待解包完成得到「system.new.img」文件，然后将「system.new.img」剪切到SystemExtractor里的extract_file_here文件夹；  
   
-4.双击img解包.cmd执行命令,输入数字1按回车开始解包，等待解包完成会生成「system.new_」文件夹，你需要的包内容就在里面；保存路径是在extract_file_here文件夹里；  
+4. 双击img解包.cmd执行命令,输入数字1按回车开始解包，等待解包完成会生成「system.new_」文件夹，你需要的包内容就在里面；保存路径是在extract_file_here文件夹里；  
   
-5.每个解包步骤需要等待5~6分钟，请耐心等待（具体要看包大小以及电脑配置）  
+5. 每个解包步骤需要等待5~6分钟，请耐心等待（具体要看包大小以及电脑配置）  
   
 
 **下载地址**：   
