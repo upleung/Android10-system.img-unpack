@@ -24,7 +24,7 @@ Android 8以上 ROM解包工具
 5.  每个解包步骤需要等待5~6分钟，请耐心等待（具体要看包大小以及电脑配置）
 
 **下载地址**：
- GitHub：https://github.com/upleung/Android10-system.img-unpack/releases/tag/system.img-unpack
+ GitHub：https://github.com/upleung/Android10-system.img-unpack/releases/tag/system.img-unpack    
  蓝奏云：https://zelink.lanzous.com/iQbtKgd7ulc
 
 # 写在最后：  
