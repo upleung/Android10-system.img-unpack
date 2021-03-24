@@ -8,7 +8,7 @@ Android 8以上 ROM解包工具
 3.SystemExtractor：解包工具，用于将「system.new.img」解包   
 
 # 引用说明：  
-本工具为一套组合使用工具，其中3个文件均转自GitHub上的大佬，组合使用实测可在Win10系统上解包Android 8、Android 9、Android 10的ROM固件（包含EMUI10、MIUI12、Flyme8等主流固件），其中：  
+本工具为一套组合使用工具，实测可在Win10系统上解包Android 8、Android 9、Android 10的ROM固件（包含EMUI10、MIUI12、Flyme8等主流固件），其中引用如下：  
 1.brotli：来自[google / brotli](https://github.com/google/brotli)  
 2.sdat2img：来自[xpirt / sdat2img](https://github.com/xpirt/sdat2img)  
 3.SystemExtractor：来自XDA论坛;
@@ -36,4 +36,4 @@ Android 8以上 ROM解包工具
 # 写在最后：    
 1. EMUI10需要先用[Huawei Update Extractor](https://club.huawei.com/thread-15265009-1-1.html) 将UPDATA.APP中的img文件提取出来才能进行解包操作；  
   
-2. 在Windowns平台解一个ROM包需要较长时间（10~15分钟不等），为了更直观、更安全与稳定，所以在这里我采用了分步执行解包。当然也有一步执行到底的工具，例如由意大利XDA开发者整合到一起的CRB包管理工具等。解包录屏在剪辑中，完成后会上传到B站；  
+2. 在Windowns平台解一个ROM包需要较长时间（10~15分钟不等），为了更直观、更安全与稳定，所以在这里我采用了分步执行解包。当然也有一步执行到底的工具，例如XDA上一名意大利开发者整合到一起的CRB固件管理工具。解包录屏在剪辑中，完成后会上传到B站；  
