@@ -40,4 +40,10 @@ Android 8以上 ROM解包工具
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=upleung/Android10-system.img-unpack&type=Date)](https://www.star-history.com/#upleung/Android10-system.img-unpack&Date)
+<a href="https://star-history.com/#upleung/Android10-system.img-unpack&Date">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=upleung/Android10-system.img-unpack&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=upleung/Android10-system.img-unpack&type=Date" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=upleung/Android10-system.img-unpack&type=Date" />
+  </picture>
+</a>
